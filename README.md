@@ -89,8 +89,8 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for m
 
 For questions or collaborations, reach out via:
 
-- **Email**: yourname@example.com
-- **GitHub**: [YourGitHubProfile](https://github.com/yourusername)
+- **Email**: thoughtscookie@gmail.com
+- **GitHub**: [YourGitHubProfile](https://github.com/ankitbh4tt)
 
 ---
 
