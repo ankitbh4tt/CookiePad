@@ -81,7 +81,7 @@
 
 ## 🛡️ License
 
-This project is licensed under the **MIT License**. See the `LICENSE` file for more details.
+This project is licensed under the **MIT License**. See the `[LICENSE](LICENSE)` file for more details.
 
 ---
 
@@ -90,7 +90,7 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for m
 For questions or collaborations, reach out via:
 
 - **Email**: thoughtscookie@gmail.com
-- **GitHub**: [YourGitHubProfile](https://github.com/ankitbh4tt)
+- **GitHub**: [AnkitBhatt](https://github.com/ankitbh4tt)
 
 ---
 
